@@ -4,8 +4,7 @@
 
 - intend なんか物はない！　これはulです
  - test
-  - ul limitation 2 floor max, japanese supported not well
-
+  - ul limitation 2 floor max, japanese supported not so well日本語てすとあいうえお
 a line
 ----
 
