@@ -2,9 +2,9 @@
 
 ![is a pic](img/its_a_picture.png)
 
-- intend なんかありません！　これはulです
+- intend というものがない、　これはulです
  - test
-  - ul limitation 2 floor max, japanese supported not so well
+ - ul limitation 2 floor max, japanese supported not so well
   
 
 a line
