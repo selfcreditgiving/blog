@@ -2,8 +2,10 @@
 
 ![is a pic](img/pic1.png)
 
--intend 1
---intend 2
+- intend 1
+-- intend 2
+--- intend 3
+----
 
 line1 (with return two space end)  
 line2 (no line break)
@@ -16,7 +18,8 @@ this is a inline code -> `fsdffefef`  just text.
 
 ##two hash tag
 ###three hash tag
-####four
+####four hash tag 1.
+####four hash tag 2.
 
 ```javascript
 var aaa = "fasdfasdf";
