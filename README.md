@@ -6,11 +6,11 @@
 --intend 2
 
 line1 (with return two space end)  
-line2
+line2 (no line break)
 line3
 
-*unordered list item 1
-*itme 2
+* unordered list item 1
+* itme 2
 
 this is a inline code -> `fsdffefef`  just text.
 
@@ -23,4 +23,10 @@ var aaa = "fasdfasdf";
 alert(aaa);
 ```
 
-at the end , its a line [google]http://www.google.com
+at the end , its a link [google](http://www.google.com)
+
+*this should be italic*
+
+**this should be bold**
+
+
