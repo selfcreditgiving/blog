@@ -4,7 +4,7 @@
 
 - intend なんか物はない！　これはulです
  - test
-  - two indent limitation japnese not supported to well
+  - test
 
 a line
 ----
