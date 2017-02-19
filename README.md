@@ -21,6 +21,6 @@ this is a inline code -> `fsdffefef`  just text.
 ```javascript
 var aaa = "fasdfasdf";
 alert(aaa);
-···
+```
 
-at the end , its a line http://www.google.com
+at the end , its a line [google]http://www.google.com
