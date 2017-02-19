@@ -1,6 +1,6 @@
 # blog
 
-![is a pic](img/its_a_pic.png)
+![is a pic](img/its_a_pictrue.png)
 
 - intend なんかありません！　これはulです
  - test
